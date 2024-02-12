@@ -2,7 +2,7 @@
 /** @var \PDO|null $koneksi */
 
 $host = 'localhost';
-$dbname = 'rswulandari';
+$dbname = 'primayoga';
 $username = 'root';
 $password = '';
 
